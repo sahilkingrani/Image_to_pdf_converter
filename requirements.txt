@@ -1,0 +1,4 @@
+tkinterdnd2
+reportlab
+Pillow
+docx2pdf
