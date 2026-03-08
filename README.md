@@ -28,8 +28,9 @@ Python libraries (installed via `requirements.txt`):
 
 - `tkinterdnd2`
 - `reportlab`
-- `Pillow`
 - `docx2pdf`
+- `Pillow`
+
 
 ## Installation
 
