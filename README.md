@@ -14,7 +14,7 @@ Features drag-and-drop support and a clean interface.
   - Combines all selected images into a single PDF
   - Automatically scales images to fit an A4-like page (612x792 points)
 - Word conversion:
-  - Converts each `.docx` file into its own PDF
+  - Converts each `word file into its own PDF
   - Opens the output folder after a successful conversion
 - Status messages and error handling via message boxes
 
